@@ -2,33 +2,34 @@
 # 👋 Hey, I'm Kronical
 
 🛠️ Building in Hardware | Breaking in Software  
-🔐 Learning Cybersecurity & Penetration Testing  
-⚡ Focused on Bug Bounty & Real-World Exploits  
+🔐 Cybersecurity Learner | Future Bug Bounty Hunter  
 
 ---
 
-## 🚀 What I'm Doing
-- 🔍 Practicing Web & Network Penetration Testing
-- 🐞 Hunting for bugs & vulnerabilities
-- 🧠 Learning Linux, Networking & Security Fundamentals
-- ⚙️ Exploring tools like Nmap, Burp Suite, Wireshark
+## 🚀 About Me
+- 🧠 Currently learning Web & Network Security
+- 🔍 Practicing Recon & Vulnerability Discovery
+- ⚡ Exploring real-world attack techniques
+- 🎯 Goal: Become a skilled ethical hacker
 
 ---
 
-## 🧰 Tools & Tech
-- Linux (Kali / Ubuntu)
-- Nmap, Burp Suite, Metasploit
-- Python (for automation & scripts)
-- Git & GitHub
+## 🛠️ Tech Stack & Tools
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-## 📂 Featured Projects
-- 🔐 Vulnerability Lab (coming soon)
-- 🛠️ Custom Scripts for Recon & Automation
-- 🌐 Web Security Practice Notes
+## 📂 Current Focus
+- 🔐 Learning Web Vulnerabilities (XSS, SQLi)
+- 🧪 Practicing labs from PortSwigger
+- 🛠️ Building small recon tools
 
 ---
 
-## 🎯 Goal
-Become a skilled ethical hacker & bug bounty hunter by building real-world skills.
+## 📅 Learning Log
+- 📌 Documenting daily cybersecurity progress
+- 🧠 Sharing notes & experiments
+
